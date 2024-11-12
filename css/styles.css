@@ -1,0 +1,11 @@
+.btn-order {
+    border-color: var(--bs-teal);
+    color: var(--bs-teal);
+    transition: 0.5s;
+}
+
+.btn-order:hover,
+.btn-order:active {
+    color: #fff;
+    background-color: var(--bs-teal);
+}
